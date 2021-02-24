@@ -1,4 +1,6 @@
 body {
     text-align: center;
-    background-color:beige;
+    background-image: url("/assets/logo2.jpg");
+    background-position:center;
+    color: aliceblue;
 }
